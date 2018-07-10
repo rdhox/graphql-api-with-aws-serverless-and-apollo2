@@ -1,0 +1,18 @@
+{
+  "name": "graphql-api-with-aws-serverless-and-apollo2",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-lambda": "^2.0.0-rc.6",
+    "aws-sdk": "^2.270.1",
+    "graphql": "^0.13.2"
+  }
+}
